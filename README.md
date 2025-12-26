@@ -1,3 +1,6 @@
+Superseded working draft. Canonical versions are maintained at:
+https://github.com/instance001/entropy-folding-foundational-frameworks
+
 # **Entropy Foundation — Scope**
 
 ### *Formal Paper (v1.0)*
